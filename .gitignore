@@ -1,0 +1,5 @@
+.conda/**
+raw_chat_corpus.zip
+raw_chat_corpus/**
+.DS_Store
+*.pdf
